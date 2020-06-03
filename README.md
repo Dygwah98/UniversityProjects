@@ -5,9 +5,11 @@ A simple list of links to all my repositories involving University Projects.
 </br><a href="https://github.com/Dygwah98/Frogger-Clone">Programmazione ad Oggetti (Object-Oriented Programming)</a>
 </br><a href="https://github.com/demisquare/BoulderDash">Interfacce Grafiche per Programmazione ad Eventi</a>
 </br><b>Algoritmi Paralleli e Strutture Dati</b>
+</br><b>Basi di Dati</b>
 
 <b>3° year</b>
 </br><a href="https://github.com/Dygwah98/SIW_INGSW_1920">Ingegneria del Software</a>
 </br><a href="https://github.com/faziofrancesco/SARELLA">Web Computing</a>
 </br><b>Intelligenza Artificiale</b>
-
+</br><b>Sistemi Operativi e Reti (Modulo Reti)</b>
+</br><b>Business Process, Management, Design and Optimization</b>
