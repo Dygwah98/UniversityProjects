@@ -1,5 +1,5 @@
 # UniversityProjects
-A simple list of links to all my repositories involving University Projects.
+A simple list of links to all my repositories involving projects made for my university exams.
 
 <b>2° year</b>
 </br><a href="https://github.com/Dygwah98/Frogger-Clone">Programmazione ad Oggetti (Object-Oriented Programming)</a>
