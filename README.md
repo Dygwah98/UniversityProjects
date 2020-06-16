@@ -9,7 +9,7 @@ A simple list of links to all my repositories involving projects made for my uni
 
 <b>3° year</b>
 </br><b>Business Process, Management, Design and Optimization</b>
-</br><b>Sistemi Operativi e Reti (Modulo Reti)</b>
+</br><a href="https://github.com/Dygwah98/SOR-1920.git">Sistemi Operativi e Reti (Modulo Reti)</a>
 </br><a href="https://github.com/Dygwah98/SIW_INGSW_1920">Ingegneria del Software</a>
 </br><b>Intelligenza Artificiale</b>
 </br><a href="https://github.com/faziofrancesco/SARELLA">Web Computing</a>
