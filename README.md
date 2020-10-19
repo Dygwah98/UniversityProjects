@@ -1,6 +1,6 @@
 # UniversityProjects
 A simple list of links to all my repositories involving projects made for my university exams.
-Included, also links to each course's description.
+I included links to each course's description.
 
 <b>2° year</b>
 </br><a href="https://www.unical.it/portale/portaltemplates/view/view_scheda_insegnamento.cfm?63181&LANG=ITA&63181&LANG=ITA">(COURSE PAGE)</a>
