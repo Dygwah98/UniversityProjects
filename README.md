@@ -24,3 +24,6 @@ I included links to each course's description.
 </br><a href="https://www.unical.it/portale/portaltemplates/view/view_scheda_insegnamento.cfm?58285&LANG=ITA&58285&LANG=ITA">(COURSE PAGE)</a>
  <a href="https://github.com/faziofrancesco/SARELLA">Web Computing</a>
 
+<b>Degree Thesis</b>
+<a href="">(PAPER)</a> 
+<a href="https://github.com/Dygwah98/threadmonitor">Source code</a>
