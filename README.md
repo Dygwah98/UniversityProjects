@@ -25,5 +25,5 @@ I included links to each course's description.
  <a href="https://github.com/faziofrancesco/SARELLA">Web Computing</a>
 
 <b>Degree Thesis</b>
-<a href="">(PAPER)</a> 
-<a href="https://github.com/Dygwah98/threadmonitor">Source code</a>
+</br><a href="">(PAPER)</a> 
+</br><a href="https://github.com/Dygwah98/threadmonitor">Source code</a>
