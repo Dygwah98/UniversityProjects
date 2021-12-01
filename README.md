@@ -19,8 +19,6 @@ I included links to each course's description.
  <a href="https://github.com/Dygwah98/SOR-1920.git">Operating Systems and Computer Networks</a>
 </br><a href="https://www.unical.it/portale/portaltemplates/view/view_scheda_insegnamento.cfm?58283&LANG=ITA&58283&LANG=ITA">(COURSE PAGE)</a>
  <a href="https://github.com/Dygwah98/SIW_INGSW_1920">Software Engineering</a>
-</br><a href="https://www.unical.it/portale/portaltemplates/view/view_scheda_insegnamento.cfm?58281&LANG=ITA&58281&LANG=ITA">(COURSE PAGE)</a>
- <b>Artificial Intelligence</b>
 </br><a href="https://www.unical.it/portale/portaltemplates/view/view_scheda_insegnamento.cfm?58285&LANG=ITA&58285&LANG=ITA">(COURSE PAGE)</a>
  <a href="https://github.com/faziofrancesco/SARELLA">Web Computing</a>
 
